@@ -1,7 +1,7 @@
 # i_am_rich
 
 <p align="center">
-<img src="https://github.com/ashikmhs/Curved-Navigation-Bar/blob/master/images/Screenshot1.png" width="250"  />
+<img src="https://github.com/ashikmhs/i-am-rich-app/blob/master/screensort/screensort.png" width="250"  />
 </p>
 
 ## Getting Started
