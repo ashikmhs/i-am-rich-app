@@ -1,6 +1,8 @@
 # i_am_rich
 
-A new Flutter project.
+<p align="center">
+<img src="https://github.com/ashikmhs/Curved-Navigation-Bar/blob/master/images/Screenshot1.png" width="250"  />
+</p>
 
 ## Getting Started
 
